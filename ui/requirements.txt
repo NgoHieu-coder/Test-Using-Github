@@ -1,0 +1,4 @@
+google-agent-development-kit
+google-generativeai
+python-dotenv
+streamlit # Nếu dùng Streamlit cho UI
